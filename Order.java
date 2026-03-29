@@ -1,6 +1,6 @@
+import java.util.Date;
+
 public class Order {
-    public static void main(String[] args) {
-        
-    }
+    Date createDate;
     
 }

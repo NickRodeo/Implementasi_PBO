@@ -1,5 +1,4 @@
 public class WireTransfer {
-    public static void main(String[] args) {
-        
-    }
+    String bankID;
+    String bankName;
 }

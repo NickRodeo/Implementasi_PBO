@@ -1,6 +1,14 @@
 public class Item {
-    public static void main(String[] args) {
-        
+    
+    float weight;
+    String description;
+
+    public void getPriceForQuantity(){
+
+    }
+
+    public void getWeight(){
+
     }
     
 }

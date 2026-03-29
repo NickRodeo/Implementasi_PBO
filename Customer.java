@@ -1,6 +1,6 @@
 public class Customer {
-    public static void main(String[] args) {
-        
-    }
-    
+    String name;
+    String deliveryAddress;
+    String contact;
+    boolean active;
 }

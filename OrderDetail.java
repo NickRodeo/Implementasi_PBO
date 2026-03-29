@@ -1,5 +1,14 @@
-public class OrderDetail {
-    public static void main(String[] args) {
-        
+class OrderDetail{
+
+    int qty;
+    String taxStatus;
+
+    public void calculateSubTotal(){
+
     }
+
+    public void calculateWeight(){
+
+    }
+
 }

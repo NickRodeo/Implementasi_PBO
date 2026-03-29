@@ -1,6 +1,9 @@
+import java.util.Date;
+
 public class Credit {
-    public static void main(String[] args) {
-        
-    }
-    
+
+    String number;
+    String type;
+    Date expireDate;
+
 }

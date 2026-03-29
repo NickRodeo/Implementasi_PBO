@@ -1,4 +1,4 @@
-class OrderDetail{
+public class OrderDetail{
 
     int qty;
     String taxStatus;

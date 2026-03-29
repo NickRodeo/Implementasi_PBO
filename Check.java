@@ -1,5 +1,8 @@
 public class Check {
-    public static void main(String[] args) {
-        
-    }   
+   String name;
+   String bankID;
+   
+   public void authorized() {
+    
+   }
 }

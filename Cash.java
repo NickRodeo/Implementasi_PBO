@@ -2,7 +2,8 @@ public class Cash extends Payment {
     float cashTendered;
 
     // Constructor
-    public Cash(float cashTendered) {
+    public Cash(float amount, float cashTendered) {
+        super(amount);
         this.cashTendered = cashTendered;
     }
 }

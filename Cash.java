@@ -1,3 +1,3 @@
-public class Cash {
+public class Cash extends Payment {
     float cashTendered;
 }

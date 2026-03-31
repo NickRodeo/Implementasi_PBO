@@ -1,4 +1,4 @@
-public class Check {
+public class Check extends Payment{
    String name;
    String bankID;
    

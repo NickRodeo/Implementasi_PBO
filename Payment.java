@@ -1,4 +1,4 @@
-public class Payment {
+public abstract class Payment {
     float amount;
     
     public Payment(float amount) {

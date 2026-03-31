@@ -1,4 +1,4 @@
-public class WireTransfer {
+public class WireTransfer extends Payment{
     String bankID;
     String bankName;
 }

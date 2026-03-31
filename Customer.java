@@ -17,6 +17,7 @@ public class Customer {
         this.orders = new ArrayList<>();
     }
 
+    //Method buat menambahkan Order
     public void addOrder(Order order) {
         orders.add(order);
     }
